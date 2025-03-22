@@ -1,0 +1,6 @@
+<meta>
+    <info type="script" name="watermark logo" author="Pehesara" version="2.0"/>
+    <script src="watermark.lua" type="client"/>
+    <file src="logo.png"/>
+</meta>
+
